@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kerolos Noshy</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on **Ticket Reservation Management System**
+- 🔭 I’m currently working on **Music Store Management System**
 
-- 🌱 I’m currently learning **Data Analysis, Android Development**
+- 🌱 I’m currently learning **Data Analysis, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Kerolos-Noshy?tab=repositories)
 
