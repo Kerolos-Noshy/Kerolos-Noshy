@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kerolos Noshy</h1>
-<h3 align="center">A Computer Engineering Student</h3>
 
 - 🔭 I’m currently working on **Music Store Management System**
 
