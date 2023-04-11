@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerolos Noshy</h1>
 
-- 🔭 I’m currently working on **Music Store Management System**
-
 - 🌱 I’m currently learning **Data Analysis, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/Kerolos-Noshy?tab=repositories)
